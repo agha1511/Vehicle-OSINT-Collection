@@ -92,7 +92,6 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [aida.info](https://www.aida.info.ro/polite-rca) | Romania insurance verification by license plate or VIN number |
 |[Egypt.gov](https://traffic.moi.gov.eg/English/OurServices/InfoServices/InteriorMinisterDecision/Pages/license-plates-taxes-traffic-fees.aspx)| Chart of license plate specifications based on vehicle type |
 
-
 ### VIN Tools
 | Link | Description |
 | --- | --- |
@@ -121,6 +120,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [Cyclevin.com](https://cyclevin.com/)| VIN database more focused on stolen off and on road motorcycles/bikes |
 | [ATVStyle.com](https://www.atvstyle.com/atv-vin-check-free-atv-vin-decoder/)| VIN decoder for ATV |
 | [pro.rarom.ro](https://pro.rarom.ro/istoric_vehicul/dosar_vehicul.aspx) | Romania vehicle history by VIN number |
+|[Licenseplatelookup.org](https://www.licenseplatelookup.org) | Search US license plate owner and all historical information about VIN number |
 
 ### Map/Street View Tools/Streetcams
 | Link | Description |
